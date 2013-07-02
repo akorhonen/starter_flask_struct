@@ -8,7 +8,7 @@ How to get started
 
 1. Clone repository to empty directory:
 
-        git clone
+        git clone https://github.com/akorhonen/starter_flask_struct.git .
 
 2. Initialize your virtual environment, then activate it; for example in Ubuntu:
 
